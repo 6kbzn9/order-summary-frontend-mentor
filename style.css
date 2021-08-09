@@ -121,17 +121,4 @@ body {
 }
 
 /**/
-.attribution {
-  font-size: 11px;
-  text-align: center;
-  padding: 0.5rem 0;
-}
-.attribution a {
-  color: var(--bright-blue);
-  text-decoration: none;
-  transition: color 250ms ease-in-out;
-}
 
-.attribution a:hover {
-  color: var(--very-bright-blue);
-}
