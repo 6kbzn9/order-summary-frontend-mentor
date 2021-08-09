@@ -4,4 +4,4 @@
 
 # this is my first time trying a challenge like this !!
 
-# it's not pixel perfect ... but not thad either !
+# it's not pixel perfect ... but not that bad either !
